@@ -1,6 +1,6 @@
 # Data Processing and Analysis:
 
-## Exploring Holistic Sensory Profiling for Mechanism-	Driven Subclassification of Peripheral Neuropathic Pain
+## Exploring Holistic Sensory Profiling for Mechanism-Driven Subclassification of Peripheral Neuropathic Pain
 
 **Student Number : 720047235**
 
