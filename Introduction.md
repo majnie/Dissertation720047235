@@ -1,15 +1,15 @@
 # Data Processing and Analysis:
 
-## Title : Exploring Holistic Sensory Profiling for Mechanism-	Driven Subclassification of Peripheral Neuropathic Pain
-Student Number : 720047235
+## Exploring Holistic Sensory Profiling for Mechanism-	Driven Subclassification of Peripheral Neuropathic Pain
 
-**Abstracts :**
+**Student Number : 720047235**
 
 *Scientific Abstract :*
 
 Neuropathic pain is a chronic pain state that presents as a constellation of heterogenous clinical features, across aetiologies. Alongside significant variability in treatment efficacy, this suggests patient-specific neural pathophysiology. The sensory signs and symptoms exhibited by patients correlate with intrinsic somatosensory dysfunction, forming characteristic sensory profiles. Patient stratification consistent with patterns between these profiles can therefore provide a mechanism-driven approach to subclassifying neuropathic pain. 
 The objective of this study was to explore the capacity of distinct sensory profiling approaches for subgrouping patients according to shared neuropathic features. These sensory profiling approaches were composed by integrating the PainPREDICT questionnaire, an emerging self-assessment tool, with two distinct methods of physiological assessment: standardised, lab-based quantitative sensory testing and easy-to-use bedside testing. Hypothesis-free, data-driven methods were used to achieve sensory pattern recognition within the sensory profiles derived from each approach. 
 The defining characteristics of the three resulting subgroups were largely consistent between approaches and in line with those defined in previous research. However, the integrated profiling approaches evaluated in this study provide a more comprehensive characterisation of the associated sensory abnormalities. External validation of these findings is necessary, to isolate the reproducibility and stability of the subgroups derived.
+
 
 *Lay abstract:*
 
