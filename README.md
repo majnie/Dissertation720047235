@@ -1,5 +1,3 @@
-# Data Processing and Analysis:
-
 ## Exploring Holistic Sensory Profiling for Mechanism-Driven Subclassification of Peripheral Neuropathic Pain
 
 *Scientific Abstract :*
