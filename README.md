@@ -2,8 +2,6 @@
 
 ## Exploring Holistic Sensory Profiling for Mechanism-Driven Subclassification of Peripheral Neuropathic Pain
 
-**Student Number : 720047235**
-
 *Scientific Abstract :*
 
 Neuropathic pain is a chronic pain state that presents as a constellation of heterogenous clinical features, across aetiologies. Alongside significant variability in treatment efficacy, this suggests patient-specific neural pathophysiology. The sensory signs and symptoms exhibited by patients correlate with intrinsic somatosensory dysfunction, forming characteristic sensory profiles. Patient stratification consistent with patterns between these profiles can therefore provide a mechanism-driven approach to subclassifying neuropathic pain. 
